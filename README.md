@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I started developing around a couple months ago.
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pogdotexe &theme=radical)
