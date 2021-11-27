@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rayanasad1974@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I started developing around a couple months ago.
---> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+-->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
