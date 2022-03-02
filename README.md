@@ -8,7 +8,7 @@ You can reach me via email at legendsgit@gmail.com or through discord at legends
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legends0002&theme=radical)
 
-[![visitors] (https://visitor-badge.glitch.me/badge?page_id=https://github.com/Legends0002)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Legends0002)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legends0002)](https://github.com/anuraghazra/github-readme-stats)
 
