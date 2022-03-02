@@ -8,6 +8,7 @@ You can reach me via email at legendsgit@gmail.com or through discord at legends
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Legends0002&theme=radical)
 
+https://camo.githubusercontent.com/1b3df03aad2f59d22a13ee4e752a9d58e56b16542ee5878f6319ab077b904aa0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d336b6830266c6162656c3d50726f66696c652056697369746f727326636f6c6f723d303031656666267374796c653d666c6174
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legends0002)](https://github.com/anuraghazra/github-readme-stats)
 
