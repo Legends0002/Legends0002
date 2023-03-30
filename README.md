@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-You can reach me via email at rayanasad1974@gmail.com or through discord at legends#7965.
+You can reach me at legends#7965 (discord)
 
 ### Some other projects
 - Website I'm currently developing, https://xlegends.github.io/gxmehub
