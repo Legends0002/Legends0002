@@ -8,8 +8,6 @@ You can reach me at legends#7965 (discord)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xlegends&theme=radical)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/xlegends)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xlegends)](https://github.com/anuraghazra/github-readme-stats)
 
 
