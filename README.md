@@ -3,7 +3,7 @@
 You can reach me at legends#7965 (discord)
 
 ### Some other projects
-- Website I'm currently developing, https://xlegends.github.io/gxmehub
+- Website I'm currently developing, https://byvolp.web.app
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xlegends&theme=radical)
